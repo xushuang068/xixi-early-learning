@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 4.5 seconds
-Output:
 const CACHE_NAME = "xixi-care-v3";
 const PRECACHE_URLS = ["./", "./index.html", "./manifest.json", "./icon.svg"];
 
