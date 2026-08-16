@@ -1,5 +1,5 @@
-const CACHE_NAME = "xixi-care-v3";
-const PRECACHE_URLS = ["./", "./index.html", "./manifest.json", "./icon.svg"];
+const CACHE_NAME = "xixi-care-v4";
+const PRECACHE_URLS = ["./", "./index.html", "./styles.css", "./app.js", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
