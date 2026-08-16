@@ -1,1 +1,1 @@
-{"name":"嘻嘻早教工作台","short_name":"嘻嘻早教","lang":"zh-CN","start_url":"./","display":"standalone","background_color":"#fffafc","theme_color":"#fff7fb","description":"7个月宝宝生活化早教工作台","icons":[]}
+{"name":"嘻嘻早教工作台","short_name":"嘻嘻早教","description":"7个月宝宝生活化早教工作台","lang":"zh-CN","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#fffdfb","theme_color":"#fdf6f0","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],"categories":["education","lifestyle"]}
